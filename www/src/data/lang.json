@@ -1,0 +1,48 @@
+[
+  {
+    "en": {
+      "title": "RightBot",
+      "description": "Is a Discord bot created to promptly inform users of Ukraine political/military/socially news",
+      "tos_title": "Terms of Service",
+      "tos_desc": "By using RightBot, you agree to the following terms",
+      "tos_content": [
+        "You must comply with Discord’s Terms of Service and Community Guidelines.",
+        "You may not use the Bot for unlawful, harmful, or disruptive activities.",
+        "The Bot is provided 'as is' without guarantees of uptime or error-free performance.",
+        "The developer is not responsible for any damages or losses caused by using the Bot.",
+        "The developer may restrict or block access to the Bot at any time if you violate these Terms."
+      ],
+      "privacy_title": "Privacy Policy",
+      "privacy_desc": "Your privacy is important. By using RightBot, you consent to this Privacy Policy",
+      "privacy_content": [
+        "RightBot does not collect personal data beyond what is provided by Discord’s API.",
+        "The Bot may temporarily store message content or user IDs only for the purpose of providing its features.",
+        "No collected data is shared with third parties.",
+        "The developer does not sell, rent, or trade any user information.",
+        "You may request the deletion of any stored data by contacting the developer."
+      ]
+    },
+    "ua": {
+      "title": "RightBot",
+      "description": "Діскорд бот, створений для оперативного інформування користувачів про політичні/військові/соціальні новини України",
+      "tos_title": "Умови користування",
+      "tos_desc": "Використовуючи RightBot, ви погоджуєтеся з наступними умовами",
+      "tos_content": [
+        "Ви повинні дотримуватися Умов використання Discord та Правил спільноти.",
+        "Заборонено використовувати Бота для незаконних, шкідливих чи деструктивних дій.",
+        "Бот надається «як є» без гарантій безперервної роботи чи відсутності помилок.",
+        "Розробник не несе відповідальності за будь-які збитки чи втрати, спричинені використанням Бота.",
+        "Розробник може обмежити або заборонити доступ до Бота у разі порушення цих Умов."
+      ],
+      "privacy_title": "Політика конфіденційності",
+      "privacy_desc": "Ваша конфіденційність є важливою. Використовуючи RightBot, ви погоджуєтеся з цією Політикою конфіденційності",
+      "privacy_content": [
+        "RightBot не збирає персональні дані, окрім тих, що надає API Discord.",
+        "Бот може тимчасово зберігати вміст повідомлень або ID користувачів виключно для забезпечення своїх функцій.",
+        "Жодні зібрані дані не передаються третім сторонам.",
+        "Розробник не продає, не здає в оренду та не обмінює інформацію про користувачів.",
+        "Ви можете запросити видалення будь-яких збережених даних, звернувшись до розробника."
+      ]
+    }
+  }
+]

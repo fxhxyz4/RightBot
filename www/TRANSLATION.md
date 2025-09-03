@@ -1,0 +1,1 @@
+### Write your translation to -> [fxhyxz](https://t.me/femboyjs) or use github issues with _translation_ label
