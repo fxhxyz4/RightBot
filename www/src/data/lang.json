@@ -20,7 +20,9 @@
         "No collected data is shared with third parties.",
         "The developer does not sell, rent, or trade any user information.",
         "You may request the deletion of any stored data by contacting the developer."
-      ]
+      ],
+      "button": "Accept",
+      "button_accept": "You accepted"
     },
     "ua": {
       "title": "RightBot",
@@ -42,7 +44,9 @@
         "Жодні зібрані дані не передаються третім сторонам.",
         "Розробник не продає, не здає в оренду та не обмінює інформацію про користувачів.",
         "Ви можете запросити видалення будь-яких збережених даних, звернувшись до розробника."
-      ]
+      ],
+      "button": "Погоджуюсь",
+      "button_accept": "Ви погодились"
     }
   }
 ]

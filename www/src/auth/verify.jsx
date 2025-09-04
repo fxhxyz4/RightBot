@@ -1,7 +1,5 @@
 const Verify = () => {
-    <>
-    {/* mb later */}
-    </>
-}
+    <>{/* mb later */}</>;
+};
 
 export default Verify;
