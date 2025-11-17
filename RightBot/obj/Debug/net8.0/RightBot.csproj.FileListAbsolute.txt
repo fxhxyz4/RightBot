@@ -1,0 +1,15 @@
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/bin/Debug/net8.0/RightBot
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/bin/Debug/net8.0/RightBot.deps.json
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/bin/Debug/net8.0/RightBot.runtimeconfig.json
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/bin/Debug/net8.0/RightBot.dll
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/bin/Debug/net8.0/RightBot.pdb
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.AssemblyInfoInputs.cache
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.AssemblyInfo.cs
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.csproj.CoreCompileInputs.cache
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.sourcelink.json
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.dll
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/refint/RightBot.dll
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.pdb
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/RightBot.genruntimeconfig.cache
+/home/fxhxyz/Desktop/dev/RightBot/RightBot/obj/Debug/net8.0/ref/RightBot.dll

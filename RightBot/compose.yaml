@@ -1,0 +1,7 @@
+﻿services:
+  rightbot:
+    image: rightbot
+    build:
+      context: .
+      dockerfile: Dockerfile
+
